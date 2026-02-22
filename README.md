@@ -62,3 +62,9 @@ Performed end-to-end data analysis on a large-scale online retail dataset to eva
 ## 📁 Final Output
 - Cleaned dataset exported for dashboard creation
 - Interactive Power BI dashboard built using processed data
+
+## 📊 Dashboard Preview
+
+![E-Commerce Dashboard](plots/dashboard_overview.png)
+
+Added dashboard preview to README
