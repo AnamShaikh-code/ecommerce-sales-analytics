@@ -65,8 +65,5 @@ Performed end-to-end data analysis on a large-scale online retail dataset to eva
 
 ## 📊 Dashboard Preview
 
-##[E-Commerce Dashboard](plots/dashboard_overview.png)
-ecommerce-sales-analytics/plots
-/dashboard_overview.png.jpg
-
+![E-Commerce Dashboard](plots/dashboard_overview.png)
 
